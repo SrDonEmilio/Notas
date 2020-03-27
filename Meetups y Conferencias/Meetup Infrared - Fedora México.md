@@ -1,4 +1,6 @@
-# MEETUP - Reunión de Marzo: Infrared [OpenStack Lab]
+# Infrared [OpenStack Lab]
+
+Meetup Fedora México - Reunión de Marzo
 
 ## ¿Qué es Open Stack?
 

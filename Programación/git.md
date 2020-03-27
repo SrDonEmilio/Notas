@@ -26,7 +26,7 @@ git config --global -l
 
 
 
-#### Iniciar git
+#### Iniciar nuevo repo git
 
 ```shell
 git init
@@ -221,7 +221,7 @@ Por ejemplo:
 
 ## Branches
 
-### FAST FOrWARD
+### FAST FORWARD
 
 El Fast Forward es el método de manejo de ramas en las que una no causa conflicto sobre la master
 
@@ -318,6 +318,8 @@ git tag -a nombre_de_etiqueta -m "Descripción de etiqueta"
 ``` shell
 git tag -a nombre_de_etiqueta id_de_commit -m "Descripción"
 ```
+
+
 
 
 

@@ -131,3 +131,7 @@ function suma(a: number, b: number): numner {
 
 
 
+*Dejaré de tomar apuntes para poner más atención al ejercicio*
+
+
+

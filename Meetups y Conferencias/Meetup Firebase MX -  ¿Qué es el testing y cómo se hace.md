@@ -62,4 +62,3 @@ Primero construyes un test y luego codeas para para poder pasar ese test, asegur
 - Enzyme - Testing in React
 - [Curso Testing Javascript](testingjavascript.com)
 - [Cheat Sheet React Testing Library](https://testing-library.com/docs/react-testing-library/cheatsheet)
-- 

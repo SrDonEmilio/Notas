@@ -39,3 +39,15 @@ npm start
 
 
 
+## ¿Qué es un componente?
+
+Un componente es un "objeto html" que se utiliza varias y veces y se puede reutilizar
+
+### Componentes Funcionales
+
+--
+
+### Componentes de Clase
+
+--
+
